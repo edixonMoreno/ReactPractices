@@ -1,0 +1,39 @@
+Yogerichrol
+gN39EC7h1H
+
+React Guia De estudio
+
+Context - https://reactjs.org/docs/context.html
+API reference - QUE ES EL REFERENCE (Javascript)
+Hooks - https://reactjs.org/docs/hooks-intro.html - Custom hooks (!important) https://reactjs.org/docs/hooks-reference.html
+importante en hooks
+- useEffect
+- useContext ( se juntan juntos con useReducer)
+- useReducer ( se juntan juntos con useContext)
+- usRef (para saber)
+- useCallback (optimizacion) a la primera no la vas usar
+- useMemo ( optimaizacion)  a la primera no la vas usar 
+
+REACT.MEMO IMPORTANTE!!
+https://reactjs.org/docs/react-api.html#reactmemo
+
+
+JavaScript Guia
+https://www.freecodecamp.org/news/how-the-question-mark-works-in-javascript/
+Map JavaScript  - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map
+Array Proptype  - find , some 
+
+Test unitarios
+
+Jest js -- Para Javascript
+https://jestjs.io/docs/expect
+Mock Functions  ladilla ppero importante
+Expect
+
+Enzyme js -- React 
+https://jestjs.io/docs/mock-function-api
+Api References
+
+
+
+
